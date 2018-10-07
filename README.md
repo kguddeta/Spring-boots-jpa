@@ -1,3 +1,3 @@
 # Spring-boots-jpa
 
-Simple Spring boots rest + JPA
+Simple Demo of Spring boots rest + JPA
